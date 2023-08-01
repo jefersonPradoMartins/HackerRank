@@ -1,0 +1,15 @@
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\bin\Debug\net6.0\Flipping bits.exe
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\bin\Debug\net6.0\Flipping bits.deps.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\bin\Debug\net6.0\Flipping bits.runtimeconfig.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\bin\Debug\net6.0\Flipping bits.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\bin\Debug\net6.0\Flipping bits.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\obj\Debug\net6.0\Flipping bits.csproj.AssemblyReference.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\obj\Debug\net6.0\Flipping bits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\obj\Debug\net6.0\Flipping bits.AssemblyInfoInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\obj\Debug\net6.0\Flipping bits.AssemblyInfo.cs
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\obj\Debug\net6.0\Flipping bits.csproj.CoreCompileInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\obj\Debug\net6.0\Flipping bits.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\obj\Debug\net6.0\refint\Flipping bits.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\obj\Debug\net6.0\Flipping bits.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\obj\Debug\net6.0\Flipping bits.genruntimeconfig.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Flipping bits\obj\Debug\net6.0\ref\Flipping bits.dll

@@ -1,0 +1,15 @@
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\bin\Debug\net6.0\Lonely Integer.exe
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\bin\Debug\net6.0\Lonely Integer.deps.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\bin\Debug\net6.0\Lonely Integer.runtimeconfig.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\bin\Debug\net6.0\Lonely Integer.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\bin\Debug\net6.0\Lonely Integer.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\obj\Debug\net6.0\Lonely Integer.csproj.AssemblyReference.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\obj\Debug\net6.0\Lonely Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\obj\Debug\net6.0\Lonely Integer.AssemblyInfoInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\obj\Debug\net6.0\Lonely Integer.AssemblyInfo.cs
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\obj\Debug\net6.0\Lonely Integer.csproj.CoreCompileInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\obj\Debug\net6.0\Lonely Integer.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\obj\Debug\net6.0\refint\Lonely Integer.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\obj\Debug\net6.0\Lonely Integer.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\obj\Debug\net6.0\Lonely Integer.genruntimeconfig.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Lonely Integer\obj\Debug\net6.0\ref\Lonely Integer.dll

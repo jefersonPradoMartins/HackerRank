@@ -1,0 +1,15 @@
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\bin\Debug\net6.0\MockTeste - Find the Median.exe
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\bin\Debug\net6.0\MockTeste - Find the Median.deps.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\bin\Debug\net6.0\MockTeste - Find the Median.runtimeconfig.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\bin\Debug\net6.0\MockTeste - Find the Median.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\bin\Debug\net6.0\MockTeste - Find the Median.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\obj\Debug\net6.0\MockTeste - Find the Median.csproj.AssemblyReference.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\obj\Debug\net6.0\MockTeste - Find the Median.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\obj\Debug\net6.0\MockTeste - Find the Median.AssemblyInfoInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\obj\Debug\net6.0\MockTeste - Find the Median.AssemblyInfo.cs
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\obj\Debug\net6.0\MockTeste - Find the Median.csproj.CoreCompileInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\obj\Debug\net6.0\MockTeste - Find the Median.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\obj\Debug\net6.0\refint\MockTeste - Find the Median.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\obj\Debug\net6.0\MockTeste - Find the Median.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\obj\Debug\net6.0\MockTeste - Find the Median.genruntimeconfig.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\obj\Debug\net6.0\ref\MockTeste - Find the Median.dll

@@ -1,0 +1,15 @@
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\bin\Debug\net6.0\Sparse Array.exe
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\bin\Debug\net6.0\Sparse Array.deps.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\bin\Debug\net6.0\Sparse Array.runtimeconfig.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\bin\Debug\net6.0\Sparse Array.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\bin\Debug\net6.0\Sparse Array.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\obj\Debug\net6.0\Sparse Array.csproj.AssemblyReference.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\obj\Debug\net6.0\Sparse Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\obj\Debug\net6.0\Sparse Array.AssemblyInfoInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\obj\Debug\net6.0\Sparse Array.AssemblyInfo.cs
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\obj\Debug\net6.0\Sparse Array.csproj.CoreCompileInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\obj\Debug\net6.0\Sparse Array.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\obj\Debug\net6.0\refint\Sparse Array.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\obj\Debug\net6.0\Sparse Array.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\obj\Debug\net6.0\Sparse Array.genruntimeconfig.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Sparse Array\obj\Debug\net6.0\ref\Sparse Array.dll

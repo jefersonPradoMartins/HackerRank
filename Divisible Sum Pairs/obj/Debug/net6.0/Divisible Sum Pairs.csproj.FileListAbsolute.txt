@@ -1,0 +1,15 @@
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\bin\Debug\net6.0\Divisible Sum Pairs.exe
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\bin\Debug\net6.0\Divisible Sum Pairs.deps.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\bin\Debug\net6.0\Divisible Sum Pairs.runtimeconfig.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\bin\Debug\net6.0\Divisible Sum Pairs.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\bin\Debug\net6.0\Divisible Sum Pairs.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\obj\Debug\net6.0\Divisible Sum Pairs.csproj.AssemblyReference.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\obj\Debug\net6.0\Divisible Sum Pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\obj\Debug\net6.0\Divisible Sum Pairs.AssemblyInfoInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\obj\Debug\net6.0\Divisible Sum Pairs.AssemblyInfo.cs
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\obj\Debug\net6.0\Divisible Sum Pairs.csproj.CoreCompileInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\obj\Debug\net6.0\Divisible Sum Pairs.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\obj\Debug\net6.0\refint\Divisible Sum Pairs.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\obj\Debug\net6.0\Divisible Sum Pairs.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\obj\Debug\net6.0\Divisible Sum Pairs.genruntimeconfig.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Divisible Sum Pairs\obj\Debug\net6.0\ref\Divisible Sum Pairs.dll

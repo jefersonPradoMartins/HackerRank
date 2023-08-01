@@ -1,0 +1,15 @@
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\bin\Debug\net6.0\Time Conversion.exe
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\bin\Debug\net6.0\Time Conversion.deps.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\bin\Debug\net6.0\Time Conversion.runtimeconfig.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\bin\Debug\net6.0\Time Conversion.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\bin\Debug\net6.0\Time Conversion.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\obj\Debug\net6.0\Time Conversion.csproj.AssemblyReference.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\obj\Debug\net6.0\Time Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\obj\Debug\net6.0\Time Conversion.AssemblyInfoInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\obj\Debug\net6.0\Time Conversion.AssemblyInfo.cs
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\obj\Debug\net6.0\Time Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\obj\Debug\net6.0\Time Conversion.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\obj\Debug\net6.0\refint\Time Conversion.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\obj\Debug\net6.0\Time Conversion.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\obj\Debug\net6.0\Time Conversion.genruntimeconfig.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Time Conversion\obj\Debug\net6.0\ref\Time Conversion.dll
