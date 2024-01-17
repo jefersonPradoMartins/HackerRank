@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BaknZoWJ6EbxjEoUeajHFxykM+RVUmPS6SteRLKuhvYEap4ilGMosycrRx1gU6fHYQRouErNHeD0ycPLMwNAYw==",
+  "dgSpecHash": "ZJtASJTLiCj9tHufdBvF+zqszjthKnflCAJVRU6b2Y8NZ7RcJYWdlHSjd8ikJxrsgA8LAFrN7QEiDRG6wPjwkw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jerso peida dinterin\\source\\repos\\HackerRank\\Breaking the Records\\Breaking the Records.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

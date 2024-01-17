@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aIlI6uAeYIL7hxtUL1IDSfalWEgbIPt7drKGduV51OSlkMDXt7wsxrI70okq2jOmljOg9eETAiZ6O+fcaiDspg==",
+  "dgSpecHash": "qt56ufexhxnTdWUnHh6R3iyIW/2ytjBGCkOElp1rFB0+KpAaQ+NfJ8Y4uffXrbdn06Ttu+bdMrhHIX8uKFa18w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jerso peida dinterin\\source\\repos\\HackerRank\\Camel Case 4\\Camel Case 4.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

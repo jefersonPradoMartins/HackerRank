@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MockTeste___Find_the_Median
 build_property.ProjectDir = C:\Users\Jerso peida dinterin\source\repos\HackerRank\MockTeste - Find the Median\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

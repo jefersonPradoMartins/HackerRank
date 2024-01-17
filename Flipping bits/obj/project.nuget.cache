@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BNjLdnI3inwZKHVJ4E2Y2mnQCgt/VZMzJXlKWqKzQGn7ZvgliwWIrTJqCy9B3I+5nyhDEYw3G8RfOrfmW1jCtw==",
+  "dgSpecHash": "0PD2yRl5SkqjLc0TSdu3hc+6fVGLE78mIup7MyD8JeEvqHOXs2pIBayWBNp3b9iqylcgQT1A70OxCtEbgbUUBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jerso peida dinterin\\source\\repos\\HackerRank\\Flipping bits\\Flipping Bits.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

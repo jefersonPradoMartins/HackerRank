@@ -1,0 +1,15 @@
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\bin\Debug\net7.0\Counting Valleys.exe
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\bin\Debug\net7.0\Counting Valleys.deps.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\bin\Debug\net7.0\Counting Valleys.runtimeconfig.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\bin\Debug\net7.0\Counting Valleys.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\bin\Debug\net7.0\Counting Valleys.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\obj\Debug\net7.0\Counting Valleys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\obj\Debug\net7.0\Counting Valleys.AssemblyInfoInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\obj\Debug\net7.0\Counting Valleys.AssemblyInfo.cs
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\obj\Debug\net7.0\Counting Valleys.csproj.CoreCompileInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\obj\Debug\net7.0\Counting Valleys.sourcelink.json
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\obj\Debug\net7.0\Counting Valleys.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\obj\Debug\net7.0\refint\Counting Valleys.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\obj\Debug\net7.0\Counting Valleys.pdb
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\obj\Debug\net7.0\Counting Valleys.genruntimeconfig.cache
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Valleys\obj\Debug\net7.0\ref\Counting Valleys.dll

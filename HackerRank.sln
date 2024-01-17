@@ -25,9 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grading Students", "Grading
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flipping Bits", "Flipping bits\Flipping Bits.csproj", "{ED37768D-5E0B-417C-9F38-D7318ACA25A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{29CEF714-4424-4E49-A319-2DD4095559D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{29CEF714-4424-4E49-A319-2DD4095559D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Sort 1", "Counting Sort 1\Counting Sort 1.csproj", "{E5482A11-7912-4105-BED2-BCEE9A935FB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counting Sort 1", "Counting Sort 1\Counting Sort 1.csproj", "{E5482A11-7912-4105-BED2-BCEE9A935FB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mars Exploration", "Mars Exploration\Mars Exploration.csproj", "{4F4DC2A5-1EB6-4720-887A-239A540DF124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Valleys", "Counting Valleys\Counting Valleys.csproj", "{86007725-1064-4A9F-8450-255ED8A33D41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{E5482A11-7912-4105-BED2-BCEE9A935FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5482A11-7912-4105-BED2-BCEE9A935FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5482A11-7912-4105-BED2-BCEE9A935FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4DC2A5-1EB6-4720-887A-239A540DF124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4DC2A5-1EB6-4720-887A-239A540DF124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4DC2A5-1EB6-4720-887A-239A540DF124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4DC2A5-1EB6-4720-887A-239A540DF124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86007725-1064-4A9F-8450-255ED8A33D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86007725-1064-4A9F-8450-255ED8A33D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86007725-1064-4A9F-8450-255ED8A33D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86007725-1064-4A9F-8450-255ED8A33D41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

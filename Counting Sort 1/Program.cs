@@ -24,31 +24,20 @@ class Result
 
     public static List<int> countingSort(List<int> arr)
     {
-        Dictionary<int,int> arrDictionary = new Dictionary<int,int>();
-
-        for(int i=0; i< arr.Count; i++)
+        Dictionary<int, int> arrDictionary = new Dictionary<int, int>();
+        for (int i = 0; i < 100; i++)
         {
-            if (arrDictionary.ContainsKey(arr[i]))
-            {
-                arrDictionary[arr[i]]++;
-            }
-            else
-            {
-                arrDictionary.Add(arr[i], 0);
-            }
+            arrDictionary.Add(i, 0);
         }
 
-        List<int> result = new List<int>(); 
-       
-        
-        foreach(int i in arrDictionary.Values)
+        for (int i = 0; i < arr.Count; i++)
         {
-            result.Add(i);
+            arrDictionary[arr[i]] = arrDictionary[arr[i]] + 1;
         }
-        
-        
 
-        return result;
+
+
+        return arrDictionary.Values.ToList();
     }
 
 }
@@ -60,11 +49,10 @@ class Solution
         TextWriter textWriter = new StreamWriter(@"C:\REDE\rede.txt");
 
         int n = Convert.ToInt32(Console.ReadLine().Trim());
-       
-        List<int> arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
-        
-       
-        
+
+        List<int> arr = Console.ReadLine().TrimStart().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
+
+
         List<int> result = Result.countingSort(arr);
 
         textWriter.WriteLine(String.Join(" ", result));

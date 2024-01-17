@@ -3,7 +3,6 @@ C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Sort 1\bin\Debug\
 C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Sort 1\bin\Debug\net6.0\Counting Sort 1.runtimeconfig.json
 C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Sort 1\bin\Debug\net6.0\Counting Sort 1.dll
 C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Sort 1\bin\Debug\net6.0\Counting Sort 1.pdb
-C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Sort 1\obj\Debug\net6.0\Counting Sort 1.csproj.AssemblyReference.cache
 C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Sort 1\obj\Debug\net6.0\Counting Sort 1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Sort 1\obj\Debug\net6.0\Counting Sort 1.AssemblyInfoInputs.cache
 C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Sort 1\obj\Debug\net6.0\Counting Sort 1.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Sort 1\obj\Debug\
 C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Sort 1\obj\Debug\net6.0\Counting Sort 1.pdb
 C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Sort 1\obj\Debug\net6.0\Counting Sort 1.genruntimeconfig.cache
 C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Sort 1\obj\Debug\net6.0\ref\Counting Sort 1.dll
+C:\Users\Jerso peida dinterin\source\repos\HackerRank\Counting Sort 1\obj\Debug\net6.0\Counting Sort 1.sourcelink.json
