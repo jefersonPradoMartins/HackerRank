@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Uc2uq64CgndmLKvRkDA0Szhcj8sUc4/idX8QHBq2vmNbBIZ8cmhZkiBqXp3pav+iNaePupG+lyDKX16e6x0I3g==",
+  "dgSpecHash": "OWNFT9KD2OMeXfHVynL+aQDBIcIjyvwpLla077cRdqVUhsj/jfeKl/V5OeaI1ZZuJZRgcehuvb7aFj2F3VY2vw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jerso peida dinterin\\source\\repos\\HackerRank\\MockTeste - Find the Median\\MockTeste - Find the Median.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Jerso peida dinterin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
   ],
   "logs": []
 }

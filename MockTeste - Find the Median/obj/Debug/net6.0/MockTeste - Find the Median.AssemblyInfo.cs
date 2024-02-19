@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MockTeste - Find the Median")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06241b36cd4e178f02d48e26b1148a610e3fdabf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c650881e5400d31d3f80efa3fdd3bdd778b8925a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MockTeste - Find the Median")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MockTeste - Find the Median")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

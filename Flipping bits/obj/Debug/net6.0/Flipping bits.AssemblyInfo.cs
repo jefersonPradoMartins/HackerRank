@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Flipping Bits")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06241b36cd4e178f02d48e26b1148a610e3fdabf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c650881e5400d31d3f80efa3fdd3bdd778b8925a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Flipping Bits")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Flipping Bits")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

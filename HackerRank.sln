@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diagonal Difference", "Diag
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counting Sort 1", "Counting Sort 1\Counting Sort 1.csproj", "{E5482A11-7912-4105-BED2-BCEE9A935FB6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mars Exploration", "Mars Exploration\Mars Exploration.csproj", "{4F4DC2A5-1EB6-4720-887A-239A540DF124}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsExploration", "Mars Exploration\MarsExploration.csproj", "{4F4DC2A5-1EB6-4720-887A-239A540DF124}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Valleys", "Counting Valleys\Counting Valleys.csproj", "{86007725-1064-4A9F-8450-255ED8A33D41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counting Valleys", "Counting Valleys\Counting Valleys.csproj", "{86007725-1064-4A9F-8450-255ED8A33D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangrams", "Pangrams\Pangrams.csproj", "{B4416241-8C7A-4F37-9DA2-2201C1E9D920}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{86007725-1064-4A9F-8450-255ED8A33D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86007725-1064-4A9F-8450-255ED8A33D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86007725-1064-4A9F-8450-255ED8A33D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4416241-8C7A-4F37-9DA2-2201C1E9D920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4416241-8C7A-4F37-9DA2-2201C1E9D920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4416241-8C7A-4F37-9DA2-2201C1E9D920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4416241-8C7A-4F37-9DA2-2201C1E9D920}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
